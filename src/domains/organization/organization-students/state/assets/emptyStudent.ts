@@ -1,0 +1,22 @@
+export default {
+  adaGrade: '',
+  adaGradeDescription: '',
+  address: [],
+  chronoGrade: '',
+  chronoGradeDescription: '',
+  currentlyEnrolled: false,
+  dateOfBirth: null,
+  emailAddress: [],
+  firstName: '',
+  gender: '',
+  id: 0,
+  lastName: '',
+  middleName: '',
+  phoneNumber: [],
+  race: '',
+  school: {
+    id: 0,
+    schoolName: '',
+    schoolTypeDescription: '',
+  },
+};
